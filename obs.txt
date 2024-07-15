@@ -1,1 +1,2 @@
-
+No docker através do AQL pra inserir algo nas collections, não ia tudo de uma vez, só ia manualmente, já aqui no python o meu rodou
+porém não sei se foi pq eu já havia criado manualmente ou pq o código deu certo mesmo
