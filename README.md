@@ -3,6 +3,12 @@
 
 ## Documentação de Software
 
+##c Componentes 
+Anthony Anderson Freitas da Silva
+Arthur Gabriel de Moura Lemos
+Caio Anderson Bezerra Fernandes
+Gustavo Henrique Bezerra de Medeiros
+Samuel Lima Souza
 ### Índice
 
 1. Introdução
